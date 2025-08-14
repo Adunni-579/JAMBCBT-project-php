@@ -1,0 +1,2 @@
+In the context of JAMB (Joint Admissions and Matriculation Board), CBT stands for Computer-Based Test. It refers to the method used by JAMB to administer the Unified Tertiary Matriculation Examination (UTME), where candidates take the exam on a computer instead of a traditional paper-and-pencil format. 
+Essentially, when you see "JAMB CBT," it means the UTME is being conducted using computers where candidates interact with the exam questions and submit their answers through a computer interface. 
